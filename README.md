@@ -1,2 +1,3 @@
 # Javascript1
-dfdf
+
+Simple linkedlist implemented in Javascript
